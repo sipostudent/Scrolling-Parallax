@@ -11,7 +11,7 @@
 
 ## Scroll Effect
 
-Full page scroll effects
+Full page CSS scroll effects
 
 ## Project Specifications
 
